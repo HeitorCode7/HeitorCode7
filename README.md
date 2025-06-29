@@ -8,3 +8,4 @@
 ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=flat)
 ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=flat)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat)
+![English](https://img.shields.io/badge/English-Advanced-blue?logo=language&style=flat)
