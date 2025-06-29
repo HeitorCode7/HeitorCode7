@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @HeitorCode7
 - 😄 Pronouns: he/him
 
-<!---
-HeitorCode7/HeitorCode7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white&style=flat)
