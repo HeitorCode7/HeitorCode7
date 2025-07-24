@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @HeitorCode7
-- 😄 Pronouns: he/him
+- 🎓 Graduando em Sistemas de Informações - Universidade Federal de Viçosa. 
+
 
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white&style=flat)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
