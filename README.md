@@ -21,7 +21,11 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=flat)
 ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=flat)
+![Unity](https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white&style=flat)
+![LaTeX](https://img.shields.io/badge/-LaTeX-008080?logo=latex&logoColor=white&style=flat)
+![Excel Avançado](https://img.shields.io/badge/-Excel%20Avançado-217346?logo=microsoft-excel&logoColor=white&style=flat)
 ![English](https://img.shields.io/badge/English-Advanced-blue?logo=language&style=flat)
+
 
 ---
 
