@@ -7,6 +7,7 @@
 
 - 💻 Graduando em Sistemas de informação - Universidade Federal de Viçosa.
 - 👨‍💻 Técnico em Programação de Jogos - Senai.
+- 📊 Iniciando na área de Análise de Dados, com foco em visualização e insights no Power BI.
 
 ---
 
