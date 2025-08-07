@@ -32,6 +32,7 @@
 ### 🛠️ Ferramentas e Habilidades
 ![Excel Avançado](https://img.shields.io/badge/-Excel%20Avançado-217346?logo=microsoft-excel&logoColor=white&style=flat)
 ![English](https://img.shields.io/badge/English-Advanced-blue?logo=language&style=flat)
+![Power BI](https://img.shields.io/badge/-Power%20BI%20Iniciante-F2C811?logo=powerbi&logoColor=black&style=flat)
 
 
 
