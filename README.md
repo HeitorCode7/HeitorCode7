@@ -30,6 +30,7 @@
 
 ### 🗄️ Banco de Dados  
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white&style=flat)
 
 ### 🛠️ Ferramentas e Habilidades
 ![Excel Avançado](https://img.shields.io/badge/-Excel%20Avançado-217346?logo=microsoft-excel&logoColor=white&style=flat)
